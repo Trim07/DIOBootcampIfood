@@ -1,7 +1,7 @@
 
 let heroi = {
     nome: "Superman",
-    xp: 9999999
+    xp: 90000
 };
 
 let nivel = [
